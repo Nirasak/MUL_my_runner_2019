@@ -20,5 +20,8 @@ making skills such as:
 • manage basic game physics.  
 • manage multiple entities at the same time.
 
+#### Usage
+    ./my_runner map.txt
+
 ## Result
 100% moulinette Epitech
